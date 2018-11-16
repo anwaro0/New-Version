@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">studentapp</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="title">Title</string>
+    <string name="describtion_txt">
+        Qassim University is a public university \n
+        in the Al-Qassim Province of Saudi Arabia. It was established in 2004, The main campus of Qassim University covers about eight square kilometers in the heart of the region. Qassim University has over 38 Colleges.</string>
+    <string name="describtion2_txt">
+    Colleges at Qassim University include Sharia College; the College of Arabic Language and Social Sciences; the College of Agricultural and Veterinary Sciences; a College of Economics; a College of Science; a College of Medicine; a College of Engineering; a College of Computer Science; a College of Applied Medical Sciences; a College of Dentistry and a College of Pharmacy.
+
+</string>
+    <string name="link">
+        <a href="http://www.qu.edu.sa/">http://www.qu.edu.sa/ </a>
+
+
+    </string>
+
+
+</resources>
+
